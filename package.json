@@ -1,0 +1,24 @@
+{
+  "name": "atm-project-ayeshaw85",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atm-project-ayesha-waheed": "^1.0.0",
+    "atm-project-ayeshawaheed": "^1.0.0",
+    "number-guess-game-ayeshawaheed": "^1.0.1",
+    "prompt-sync": "^4.2.0",
+    "typescript": "^5.4.4"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
